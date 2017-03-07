@@ -5,7 +5,7 @@ Analysis 1 - Getting top mail receivers and senders from Enron CEO's folder : Th
              in both these categories. Same is being done for mails in the CEO Kenneth Lay's Folder and get top 10 senders and
              receivers of mails. This list gives me important persons mail ids.
              
-             ![alt tag](https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Que1_Ana1.png)
+ <img src="https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Que1_Ana1.png" width="350"/>)
 
 Analysis 2 - based on the above top receivers and senders, I am reducing the mail dataset to the mails containing the mails 
              of the top senders and receivers.
