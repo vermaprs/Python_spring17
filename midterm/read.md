@@ -39,4 +39,4 @@ Analysis 3 - I am using the archive API. I am trying to fetch the news archive f
              popularity in news was least in last two months i.e. October and November 2016.
              
              
-<img src="https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Screen%20Shot%202017-03-07%20at%205.53.56%20AM.png" width="350"/>          
+<img src="https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Que2_Ana3.png" width="350"/>          
