@@ -25,7 +25,7 @@ Analysis 1 - I am using the archive API. I am trying to fetch the news archive f
              news data. Finally, displaying the data for the June-Nov 2016. The conclusion is that the Donald Trump's 
              popularity was high in last two months i.e. October and November 2016.
              
-<img src="https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Screen%20Shot%202017-03-07%20at%205.50.44%20AM.png" width="350"/>
+<img src="https://github.com/vermaprs/Python_spring17/blob/master/midterm/screenshots/Que2_Ana1.png" width="350"/>
              
 Analysis 2 - I am using the archive API. I am fetching the data for all 12 months in the year 2016. I am then saving the data
              in json files. From all this data, I am counting the frequency of words and then sorting the words based on
